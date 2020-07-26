@@ -1,7 +1,9 @@
 slug: activism-airwaves
 title: Activism Airwaves
-categories: []
-cover-image: 'https://content.freshair.org.uk/content/images/DXLmLBIS.jpg'
+categories:
+  - Arts
+active: true
+cover-image: https://content.freshair.org.uk/content/images/DXLmLBIS.jpg
 description: |-
   Explores various forms of activism and engages with activists to learn more
   about what they do. The show includes activism inspired music, interviews with
